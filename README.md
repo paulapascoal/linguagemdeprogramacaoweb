@@ -32,3 +32,20 @@ O StreamPlay apresenta um fluxo simples e intuitivo, semelhante ao de plataforma
 
 ## 📂 Estrutura do Projeto
 
+streamplay/
+│
+├── index.html
+├── login.html
+├── cadastro.html
+├── processa_assinatura.php
+│
+├── css/
+│ └── style.css
+│
+├── js/
+│ └── tema.js
+│
+└── README.md
+
+
+- **Acesse aqui:** [**https://paulapascoal.github.io/linguagemdeprogramacaoweb/**](https://paulapascoal.github.io/linguagemdeprogramacaoweb/)
